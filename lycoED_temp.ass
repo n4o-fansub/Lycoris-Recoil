@@ -21,7 +21,7 @@ Style: ED Romaji,Square721 BT,75,&H00AF88F3,&H000000FF,&H00FFFFFF,&H00000000,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:22:43.51,0:22:43.55,ED Romaji,,0,0,0,sync,{sync}
+Dialogue: 0,0:22:43.51,0:22:43.55,ED Romaji,,0,0,0,sync,{sync}
 Dialogue: 3,0:22:43.30,0:22:46.30,ED Romaji,,0,0,0,fx,{\fad(100,200)\an5\be0\bord2.25\shad0\pos(606,75)\fscy1\fscx120\t(0,120,1,\fscy100\fscx100\t(100,220,1,\fscx100\fscy100))\\t(290,290,\blur0.9\fscx122\fscy122)\t(290,490,\fscx100\fscy100\blur0.9)\t(2670,2770,\fscy100\fscx100\t(2770,3020,\fscy1\fscx120))\1c&H704DC2&\3c&HFFFFFF&\t(290,290,)\t(290,490,\1c&H704DC2&\3c&HFFFFFF&)}ki
 Dialogue: 2,0:22:43.30,0:22:46.30,ED Romaji,,0,0,0,fx,{\fad(100,200)\an5\be0\bord2.25\shad0\pos(606,75)\fscy1\fscx120\t(0,120,1,\fscy100\fscx100\t(100,220,1,\fscx100\fscy100))\\t(290,290,\blur0.9\fscx122\fscy122)\t(290,490,\fscx100\fscy100\blur0.9)\t(2670,2770,\fscy100\fscx100\t(2770,3020,\fscy1\fscx120))\1c&H704DC2&\3c&HFFFFFF&\t(290,290,\c&HC7FF60&)\t(290,490,\1c&H704DC2&\3c&HFFFFFF&)\bord4.5\be2\blur4.5}ki
 Dialogue: 3,0:22:43.30,0:22:46.30,ED Romaji,,0,0,0,fx,{\fad(100,200)\an5\be0\bord2.25\shad0\pos(662.1,75)\fscy1\fscx120\t(0,120,1,\fscy100\fscx100\t(100,220,1,\fscx100\fscy100))\\t(490,490,\blur0.9\fscx122\fscy122)\t(490,650,\fscx100\fscy100\blur0.9)\t(2670,2770,\fscy100\fscx100\t(2770,3020,\fscy1\fscx120))\1c&H704DC2&\3c&HFFFFFF&\t(490,490,)\t(490,650,\1c&H704DC2&\3c&HFFFFFF&)}mi
