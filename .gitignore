@@ -1,0 +1,25 @@
+DDY*
+.gradle
+*.zip
+*.txt
+
+# KFX Script
+*.py
+
+# Video/Audio
+*.mkv
+*.mp4
+*.265
+*.eac3
+*.opus
+*.aac
+*.m4a
+*.flac
+*.webm
+
+# MKV stuff
+*.mka
+*.mks
+
+# Images
+*.png
