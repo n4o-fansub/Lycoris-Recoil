@@ -16,15 +16,15 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Last Style Storage: Default
+Last Style Storage: nao_LycoReco
 Audio File: ../lycoreco01_premux [5FDE1789].mkv
 Video File: ../lycoreco01_premux [5FDE1789].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 191
-Active Line: 205
-Video Position: 14061
+Scroll Position: 928
+Active Line: 945
+Video Position: 2361
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,8 +32,7 @@ Style: Dialog,Cabin,78,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,
 Style: Atas,Cabin,78,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,1.5,8,203,203,45,0
 Style: Miring,Cabin,78,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,-1,0,0,100,100,0,0,1,3,1.5,2,218,218,53,0
 Style: TS,Lato,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
-Style: ED Indo,Square721 BT,63,&H00AF88F3,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.75,0,8,15,15,105,1
-Style: ED Romaji,Square721 BT,75,&H00AF88F3,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.75,0,8,15,15,38,1
+Style: Title,Gandhi Sans,60,&H00FFFFFF,&H000000FF,&H00020713,&H96000000,-1,0,0,0,100,100,0,0,1,0,0,8,0,0,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -976,6 +975,13 @@ Dialogue: 0,0:13:04.39,0:13:05.22,TS,,0,0,0,,{\fad(520,0)\blur1.05\b1\fs97.5\c&H
 Comment: 0,0:13:20.99,0:13:26.20,TS,,0,0,0,,{\an8}OSHIAGE POLICE STATION
 Comment: 0,0:15:49.72,0:15:51.26,TS,,0,0,0,,{\an8}DECLINE  /  ACCEPT
 Comment: 0,0:22:18.61,0:22:22.70,TS,,0,0,0,,{\an8}TOGETHER WITH OUR NEW GIRL!\NYEAH! WE'RE AWAITING YOUR PATRONAGE :)
+Dialogue: 0,0:01:37.58,0:01:42.75,Title,,0,0,0,,{\fad(0,940)\blur4.5\fnRaleway Medium\bord2.55\c&H020713&\b1\fs60\fscy102\clip(1369,855,1375,936)\t(0,727,1,\clip(452,855,1844,936))\t(4230,5170,\c&H00&)\pos(1597.07,884.53)}Perlahan tapi pasti
+Dialogue: 0,0:01:37.58,0:01:42.75,Title,,0,0,0,,{\fad(0,940)\blur0.82\fnRaleway Medium\c&H150644&\b1\fs60\fscy102\clip(1366.000,855.000,1375.000,936.000)\t(0,727,\clip(452,855,1844,936))\t(4230,5170,\c&H00&)\pos(1593.070,884.530)}Perlahan tapi pasti
+Dialogue: 0,0:01:37.58,0:01:42.75,Title,,0,0,0,,{\fad(0,940)\blur0.825\fnRaleway Medium\c&H532F94&\b1\fs60\fscy102\clip(1367.000,855.000,1376.000,936.000)\t(0,727,1,\clip(452,855,1844,936))\t(4230,5170,\c&H00&)\pos(1595.070,884.530)}Perlahan tapi pasti
+Dialogue: 0,0:01:37.58,0:01:42.75,Title,,0,0,0,,{\fad(0,940)\blur0.825\fnRaleway Medium\b1\fs60\fscy102\clip(1373.000,855.000,1376.000,936.000)\t(0,727,1,\clip(452,855,1844,936))\c&H28762B&\t(4230,5170,\c&H00&)\pos(1599.070,884.530)}Perlahan tapi pasti
+Dialogue: 0,0:01:37.58,0:01:42.67,Title,,0,0,0,,{\fad(0,940)\blur0.825\fnRaleway Medium\b1\fs60\fscy102\clip(1370,855,1374,936)\t(0,727,1,\clip(452,855,1844,936))\pos(1597.07,884.53)}Perlahan tapi pasti
+Dialogue: 0,0:01:38.37,0:01:38.62,Title,,0,0,0,,{\blur0.825\fnRaleway Medium\c&H8556FF&\b1\fs60\fscy102\pos(1597.07,884.53)\clip(1345.6,857.6,1425.6,948.8)\t(\clip(1816,876.8,1862.4,952))}Perlahan tapi pasti
+Dialogue: 0,0:01:38.45,0:01:38.70,Title,,0,0,0,,{\blur0.825\fnRaleway Medium\c&HF3FE5D&\b1\fs60\fscy102\pos(1597.07,884.53)\clip(1345.6,857.6,1425.6,948.8)\t(\clip(1816,876.8,1862.4,952))}Perlahan tapi pasti
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"06733ae9-1a7f-4ee9-9653-487daf939649"#2C"originalText"#3A"{\\blur3\\fs50\\fnFOT-ManyoKoin Std B\\b1\\c&HFAFBFC&\\pos(782.66#2C310.86)\\fscx100\\fscy118}adalah nomor 1 di dunia selama 8 tahun berturut-turut"}
