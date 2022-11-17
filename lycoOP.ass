@@ -11,14 +11,12 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: nao_LycoReco
-Audio File: lycoreco02_premux [F75BE990].mkv
-Video File: lycoreco02_premux [F75BE990].mkv
+Audio File: LycoReco_NCOP.mkv
+Video File: LycoReco_NCOP.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 12
-Active Line: 34
-Video Position: 3176
+Video Zoom Percent: 0.500000
+Video Position: 14
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,42 +25,42 @@ Style: OP Romaji,Aller,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:01:11.97,0:01:14.97,OP Indo,,0,0,0,sync,{sync}
-Comment: 0,0:01:14.11,0:01:17.69,OP Indo,an=8:intensity=0.1:c=w:c2=w,0,0,0,karaoke,{\k5}{\k38}A{\k35}kan {\k34}ku{\k34}te{\k32}ra{\k33}ngi {\k19}ma{\k38}sa {\k26}de{\k64}pan
-Comment: 0,0:01:17.69,0:01:23.41,OP Indo,an=8:intensity=0.1:c=w:c2=w,0,0,0,karaoke,{\k11}{\k16}Yang {\k33}t'lah {\k18}ku{\k34}ha{\k32}rap{\k50}kan {\k36}de{\k26}ngan {\k38}be{\k115}ra{\k163}ni
-Comment: 0,0:01:31.25,0:01:34.25,OP Indo,an=8:intensity=0.1:c=b:c2=b,0,0,0,karaoke,{\k21}Ke{\k17}e{\k15}go{\k19}i{\k34}san {\k36}i{\k49}ni {\k17}sa{\k18}ling {\k20}ber{\k18}ben{\k16}tu{\k20}ran
-Comment: 0,0:01:34.25,0:01:36.59,OP Indo,an=8:intensity=0.1:c=b:c2=b,0,0,0,karaoke,{\k14}{\k37}Ti{\k46}dak {\k20}da{\k19}pat {\k18}ku{\k16}li{\k64}hat
-Comment: 0,0:01:36.59,0:01:39.72,OP Indo,an=8:intensity=0.1:c=b:c2=b,0,0,0,karaoke,{\k20}{\k20}A{\k16}ku {\k18}te{\k18}rus {\k34}ber{\k34}ja{\k50}lan, {\k16}dan {\k20}me{\k18}ngi{\k16}si {\k20}ja{\k13}rak
-Comment: 0,0:01:39.72,0:01:42.22,OP Indo,an=8:intensity=0.1:c=b:c2=b,0,0,0,karaoke,{\k15}{\k31}Sam{\k36}bil {\k25}la{\k16}ri{\k52}kan {\k18}di{\k57}ri
-Comment: 0,0:01:42.22,0:01:47.77,OP Indo,an=9:intensity=0.1:c=w:c2=w,0,0,0,karaoke,{\k35}{\k44}Mes{\k32}ki {\k36}a{\k34}sa {\k36}di {\k33}u{\k65}jung, {\k38}dan {\k33}tak {\k34}da{\k33}pat {\k34}ku{\k34}li{\k34}hat
-Comment: 0,0:01:47.77,0:01:49.56,OP Indo,an=8:intensity=0.3:c=w:c2=w,0,0,0,karaoke,{\k25}{\k25}La{\k18}ku{\k19}kan{\k15}lah {\k18}yang {\k14}ter{\k18}ba{\k27}ik
-Comment: 0,0:01:49.56,0:01:54.65,OP Indo,an=8:intensity=0.3:c=w:c2=w,0,0,0,karaoke,{\k10}{\k16}Ba{\k17}kar{\k16}lah {\k15}se{\k18}mu{\k47}a {\k20}gun{\k60}dah {\k39}da{\k18}lam {\k33}ha{\k36}ti{\k164}mu
-Comment: 0,0:01:54.65,0:01:58.44,OP Indo,an=8:intensity=2:c=b:c2=w,0,0,0,karaoke,{\k21}{\k33}Has{\k33}rat {\k32}yang {\k36}ku{\k31}pen{\k31}dam {\k22}da{\k31}lam {\k34}kal{\k75}bu
-Comment: 0,0:01:58.44,0:02:02.01,OP Indo,an=8:intensity=2:c=w:c2=w,0,0,0,karaoke,{\k39}I{\k21}ngin {\k31}ku{\k20}se{\k15}ru{\k29}kan {\k17}ke{\k21}pa{\k34}da {\k32}du{\k98}nia
-Comment: 0,0:02:02.01,0:02:06.37,OP Indo,an=8:intensity=1:c=w:c2=w,0,0,0,karaoke,{\k16}{\k36}Wa{\k33}lau {\k35}ge{\k25}me{\k39}tar {\k46}me{\k39}ra{\k15}su{\k23}ki{\k129}ku
-Comment: 0,0:02:06.37,0:02:09.00,OP Indo,an=9:intensity=2:c=w:c2=w,0,0,0,karaoke,{\k13}{\k37}Tak {\k32}per{\k32}lu {\k18}kau{\k31}se{\k35}sa{\k65}li
-Comment: 0,0:02:09.00,0:02:12.00,OP Indo,an=9:intensity=1:c=w:c2=w,0,0,0,karaoke,{\k17}{\k34}Geng{\k19}gam {\k34}e{\k30}rat {\k30}ta{\k19}ngan{\k117}ku
-Comment: 0,0:02:10.54,0:02:12.75,OP Indo,an=7:intensity=1:c=w:c2=w,0,0,0,karaoke,{\k29}(Lu{\k18}pa{\k33}kan {\k17}ma{\k18}sa {\k28}ke{\k26}lam{\k52}mu)
-Comment: 0,0:02:12.75,0:02:17.00,OP Indo,an=8:intensity=1:c=w:c2=w,0,0,0,karaoke,{\k40}Te{\k35}ri{\k30}ma{\k37}lah {\k31}de{\k53}ngan {\k35}la{\k16}pang {\k19}da{\k129}da
-Comment: 0,0:02:17.00,0:02:22.01,OP Indo,an=8:intensity=0.2:c=w:c2=w,0,0,0,karaoke,{\k14}{\k35}Ja{\k18}wa{\k34}ban{\k36}nya {\k48}a{\k31}kan {\k39}a{\k30}ku {\k33}ca{\k18}ri {\k34}sen{\k34}di{\k97}ri
-Comment: 0,0:02:22.01,0:02:26.14,OP Indo,an=8:intensity=3:c=w:c2=w,0,0,0,karaoke,{\k18}{\k16}Ma{\k18}ri {\k30}ga{\k18}pai{\k49}lah {\k35}im{\k16}pi{\k17}an {\k17}ba{\k33}ru {\k35}ki{\k111}ta
-Comment: 0,0:02:26.14,0:02:33.13,OP Indo,an=8:intensity=0.1:c=w:c2=w,0,0,0,karaoke,{\k33}Se{\k69}la{\k15}lu,{\k12} {\k28}a{\k15}kan {\k29}ku{\k16}ra{\k54}ih {\k16}ma{\k17}sa {\k35}de{\k14}pan {\k36}yang {\k32}ce{\k280}rah
-Comment: 0,0:01:14.11,0:01:17.69,OP Romaji,an=2:intensity=0.1:c=w:c2=w,0,0,0,karaoke,Negatta yuukan na sentaku no
-Comment: 0,0:01:17.69,0:01:23.41,OP Romaji,an=2:intensity=0.1:c=w:c2=w,0,0,0,karaoke,Mirai wo ima terashiteku
-Comment: 0,0:01:31.25,0:01:34.25,OP Romaji,an=2:intensity=0.1:c=b:c2=b,0,0,0,karaoke,Rikoteki na kanjou butsukeaccha
-Comment: 0,0:01:34.25,0:01:36.59,OP Romaji,an=2:intensity=0.1:c=b:c2=b,0,0,0,karaoke,Mada mienai ne
-Comment: 0,0:01:36.59,0:01:39.72,OP Romaji,an=2:intensity=0.1:c=b:c2=b,0,0,0,karaoke,Nigete kita bun no kyori wo umeru
-Comment: 0,0:01:39.72,0:01:42.22,OP Romaji,an=2:intensity=0.1:c=b:c2=b,0,0,0,karaoke,Hora tabi ni deyou
-Comment: 0,0:01:42.22,0:01:47.77,OP Romaji,an=3:intensity=0.1:c=w:c2=w,0,0,0,karaoke,Saihate nante mirarenakute mo
-Comment: 0,0:01:47.77,0:01:49.56,OP Romaji,an=2:intensity=0.3:c=w:c2=w,0,0,0,karaoke,Inochi wo moyashite
-Comment: 0,0:01:49.56,0:01:54.65,OP Romaji,an=2:intensity=0.3:c=w:c2=w,0,0,0,karaoke,Ima wo ikiteiku dake dakara
-Comment: 0,0:01:54.65,0:01:58.44,OP Romaji,an=2:intensity=2:c=b:c2=w,0,0,0,karaoke,Negatta sonzai no shoumei wo
-Comment: 0,0:01:58.44,0:02:02.01,OP Romaji,an=2:intensity=2:c=w:c2=w,0,0,0,karaoke,Koe wo furuwase tsudzukete
-Comment: 0,0:02:02.01,0:02:06.37,OP Romaji,an=2:intensity=1:c=w:c2=w,0,0,0,karaoke,Furikazashite kita kara
-Comment: 0,0:02:06.37,0:02:09.00,OP Romaji,an=3:intensity=2:c=w:c2=w,0,0,0,karaoke,Koukai wa iranai
-Comment: 0,0:02:09.00,0:02:12.00,OP Romaji,an=3:intensity=1:c=w:c2=w,0,0,0,karaoke,Te wo toriatte
-Comment: 0,0:02:10.54,0:02:12.75,OP Romaji,an=1:intensity=1:c=w:c2=w,0,0,0,karaoke,(Kurai kako datte)
-Comment: 0,0:02:12.75,0:02:17.00,OP Romaji,an=2:intensity=1:c=w:c2=w,0,0,0,karaoke,Uketomete susunde iku
-Comment: 0,0:02:17.00,0:02:22.01,OP Romaji,an=2:intensity=0.2:c=w:c2=w,0,0,0,karaoke,Shimesareta kotae erabu yori
-Comment: 0,0:02:22.01,0:02:26.14,OP Romaji,an=2:intensity=3:c=w:c2=w,0,0,0,karaoke,Atarashii yume wo mezasu kara
-Comment: 0,0:02:26.14,0:02:33.13,OP Romaji,an=2:intensity=0.1:c=w:c2=w,0,0,0,karaoke,Zutto mabushii michi wo aruite ikou
+Comment: 0,0:00:00.97,0:00:03.97,OP Indo,,0,0,0,sync,{sync}
+Comment: 0,0:00:03.11,0:00:06.69,OP Indo,an=2:intensity=0.1:c=w:c2=w,0,0,0,karaoke,{\k5}{\k38}A{\k35}kan {\k34}ku{\k34}te{\k32}ra{\k33}ngi {\k19}ma{\k38}sa {\k26}de{\k64}pan
+Comment: 0,0:00:06.69,0:00:12.41,OP Indo,an=2:intensity=0.1:c=w:c2=w,0,0,0,karaoke,{\k11}{\k16}Yang {\k33}t'lah {\k18}ku{\k34}ha{\k32}rap{\k50}kan {\k36}de{\k26}ngan {\k38}be{\k115}ra{\k163}ni
+Comment: 0,0:00:20.25,0:00:23.25,OP Indo,an=2:intensity=0.1:c=b:c2=b,0,0,0,karaoke,{\k21}Ke{\k17}e{\k15}go{\k19}i{\k34}san {\k36}i{\k49}ni {\k17}sa{\k18}ling {\k20}ber{\k18}ben{\k16}tu{\k20}ran
+Comment: 0,0:00:23.25,0:00:25.59,OP Indo,an=2:intensity=0.1:c=b:c2=b,0,0,0,karaoke,{\k14}{\k37}Ti{\k46}dak {\k20}da{\k19}pat {\k18}ku{\k16}li{\k64}hat
+Comment: 0,0:00:25.59,0:00:28.72,OP Indo,an=2:intensity=0.1:c=b:c2=b,0,0,0,karaoke,{\k20}{\k20}A{\k16}ku {\k18}te{\k18}rus {\k34}ber{\k34}ja{\k50}lan, {\k16}dan {\k20}me{\k18}ngi{\k16}si {\k20}ja{\k13}rak
+Comment: 0,0:00:28.72,0:00:31.22,OP Indo,an=2:intensity=0.1:c=b:c2=b,0,0,0,karaoke,{\k15}{\k31}Sam{\k36}bil {\k25}la{\k16}ri{\k52}kan {\k18}di{\k57}ri
+Comment: 0,0:00:31.22,0:00:36.77,OP Indo,an=3:intensity=0.1:c=w:c2=w,0,0,0,karaoke,{\k35}{\k44}Mes{\k32}ki {\k36}a{\k34}sa {\k36}di {\k33}u{\k65}jung, {\k38}dan {\k33}tak {\k34}da{\k33}pat {\k34}ku{\k34}li{\k34}hat
+Comment: 0,0:00:36.77,0:00:38.56,OP Indo,an=2:intensity=0.3:c=w:c2=w,0,0,0,karaoke,{\k25}{\k25}La{\k18}ku{\k19}kan{\k15}lah {\k18}yang {\k14}ter{\k18}ba{\k27}ik
+Comment: 0,0:00:38.56,0:00:43.65,OP Indo,an=2:intensity=0.3:c=w:c2=w,0,0,0,karaoke,{\k10}{\k16}Ba{\k17}kar{\k16}lah {\k15}se{\k18}mu{\k47}a {\k20}gun{\k60}dah {\k39}da{\k18}lam {\k33}ha{\k36}ti{\k164}mu
+Comment: 0,0:00:43.65,0:00:47.44,OP Indo,an=2:intensity=2:c=b:c2=w,0,0,0,karaoke,{\k21}{\k33}Has{\k33}rat {\k32}yang {\k36}ku{\k31}pen{\k31}dam {\k22}da{\k31}lam {\k34}kal{\k75}bu
+Comment: 0,0:00:47.44,0:00:51.01,OP Indo,an=2:intensity=2:c=w:c2=w,0,0,0,karaoke,{\k39}I{\k21}ngin {\k31}ku{\k20}se{\k15}ru{\k29}kan {\k17}ke{\k21}pa{\k34}da {\k32}du{\k98}nia
+Comment: 0,0:00:51.01,0:00:55.37,OP Indo,an=2:intensity=1:c=w:c2=w,0,0,0,karaoke,{\k16}{\k36}Wa{\k33}lau {\k35}ge{\k25}me{\k39}tar {\k46}me{\k39}ra{\k15}su{\k23}ki{\k129}ku
+Comment: 0,0:00:55.37,0:00:58.00,OP Indo,an=3:intensity=2:c=w:c2=w,0,0,0,karaoke,{\k13}{\k37}Tak {\k32}per{\k32}lu {\k18}kau{\k31}se{\k35}sa{\k65}li
+Comment: 0,0:00:58.00,0:01:01.00,OP Indo,an=3:intensity=1:c=w:c2=w,0,0,0,karaoke,{\k17}{\k34}Geng{\k19}gam {\k34}e{\k30}rat {\k30}ta{\k19}ngan{\k117}ku
+Comment: 0,0:00:59.54,0:01:01.75,OP Indo,an=1:intensity=1:c=w:c2=w,0,0,0,karaoke,{\k29}(Lu{\k18}pa{\k33}kan {\k17}ma{\k18}sa {\k28}ke{\k26}lam{\k52}mu)
+Comment: 0,0:01:01.75,0:01:06.00,OP Indo,an=2:intensity=1:c=w:c2=w,0,0,0,karaoke,{\k40}Te{\k35}ri{\k30}ma{\k37}lah {\k31}de{\k53}ngan {\k35}la{\k16}pang {\k19}da{\k129}da
+Comment: 0,0:01:06.00,0:01:11.01,OP Indo,an=2:intensity=0.2:c=w:c2=w,0,0,0,karaoke,{\k14}{\k35}Ja{\k18}wa{\k34}ban{\k36}nya {\k48}a{\k31}kan {\k39}a{\k30}ku {\k33}ca{\k18}ri {\k34}sen{\k34}di{\k97}ri
+Comment: 0,0:01:11.01,0:01:15.14,OP Indo,an=2:intensity=3:c=w:c2=w,0,0,0,karaoke,{\k18}{\k16}Ma{\k18}ri {\k30}ga{\k18}pai{\k49}lah {\k35}im{\k16}pi{\k17}an {\k17}ba{\k33}ru {\k35}ki{\k111}ta
+Comment: 0,0:01:15.14,0:01:22.13,OP Indo,an=2:intensity=0.1:c=w:c2=w,0,0,0,karaoke,{\k33}Se{\k69}la{\k15}lu,{\k12} {\k28}a{\k15}kan {\k29}ku{\k16}ra{\k54}ih {\k16}ma{\k17}sa {\k35}de{\k14}pan {\k36}yang {\k32}ce{\k280}rah
+Comment: 0,0:00:03.11,0:00:06.69,OP Romaji,an=2:intensity=0.1:c=w:c2=w,0,0,0,karaoke,Negatta yuukan na sentaku no
+Comment: 0,0:00:06.69,0:00:12.41,OP Romaji,an=2:intensity=0.1:c=w:c2=w,0,0,0,karaoke,Mirai wo ima terashiteku
+Comment: 0,0:00:20.25,0:00:23.25,OP Romaji,an=2:intensity=0.1:c=b:c2=b,0,0,0,karaoke,Rikoteki na kanjou butsukeaccha
+Comment: 0,0:00:23.25,0:00:25.59,OP Romaji,an=2:intensity=0.1:c=b:c2=b,0,0,0,karaoke,Mada mienai ne
+Comment: 0,0:00:25.59,0:00:28.72,OP Romaji,an=2:intensity=0.1:c=b:c2=b,0,0,0,karaoke,Nigete kita bun no kyori wo umeru
+Comment: 0,0:00:28.72,0:00:31.22,OP Romaji,an=2:intensity=0.1:c=b:c2=b,0,0,0,karaoke,Hora tabi ni deyou
+Comment: 0,0:00:31.22,0:00:36.77,OP Romaji,an=3:intensity=0.1:c=w:c2=w,0,0,0,karaoke,Saihate nante mirarenakute mo
+Comment: 0,0:00:36.77,0:00:38.56,OP Romaji,an=2:intensity=0.3:c=w:c2=w,0,0,0,karaoke,Inochi wo moyashite
+Comment: 0,0:00:38.56,0:00:43.65,OP Romaji,an=2:intensity=0.3:c=w:c2=w,0,0,0,karaoke,Ima wo ikiteiku dake dakara
+Comment: 0,0:00:43.65,0:00:47.44,OP Romaji,an=2:intensity=2:c=b:c2=w,0,0,0,karaoke,Negatta sonzai no shoumei wo
+Comment: 0,0:00:47.44,0:00:51.01,OP Romaji,an=2:intensity=2:c=w:c2=w,0,0,0,karaoke,Koe wo furuwase tsudzukete
+Comment: 0,0:00:51.01,0:00:55.37,OP Romaji,an=2:intensity=1:c=w:c2=w,0,0,0,karaoke,Furikazashite kita kara
+Comment: 0,0:00:55.37,0:00:58.00,OP Romaji,an=3:intensity=2:c=w:c2=w,0,0,0,karaoke,Koukai wa iranai
+Comment: 0,0:00:58.00,0:01:01.00,OP Romaji,an=3:intensity=1:c=w:c2=w,0,0,0,karaoke,Te wo toriatte
+Comment: 0,0:00:59.54,0:01:01.75,OP Romaji,an=1:intensity=1:c=w:c2=w,0,0,0,karaoke,(Kurai kako datte)
+Comment: 0,0:01:01.75,0:01:06.00,OP Romaji,an=2:intensity=1:c=w:c2=w,0,0,0,karaoke,Uketomete susunde iku
+Comment: 0,0:01:06.00,0:01:11.01,OP Romaji,an=2:intensity=0.2:c=w:c2=w,0,0,0,karaoke,Shimesareta kotae erabu yori
+Comment: 0,0:01:11.01,0:01:15.14,OP Romaji,an=2:intensity=3:c=w:c2=w,0,0,0,karaoke,Atarashii yume wo mezasu kara
+Comment: 0,0:01:15.14,0:01:22.13,OP Romaji,an=2:intensity=0.1:c=w:c2=w,0,0,0,karaoke,Zutto mabushii michi wo aruite ikou
