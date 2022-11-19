@@ -22,9 +22,9 @@ Video File: ../lycoreco03_premux [F3AD4955].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 918
-Active Line: 924
-Video Position: 3205
+Scroll Position: 932
+Active Line: 943
+Video Position: 3084
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -974,15 +974,15 @@ Dialogue: 0,0:05:58.05,0:05:58.09,ZSigns2,,0,0,0,,{\fnDoppio One\fs40.001\fry-8.
 Dialogue: 0,0:05:58.09,0:05:58.13,ZSigns2,,0,0,0,,{\fnDoppio One\fs40.001\fry-8.58\frx0.26\frz-7.92\fax0.14\clip(m 1402.375 748.75 l 1835.875 793.75 1836.625 894 1402.375 830.25)\pos(1592.951,845.19)\c&HFDFEFF&}Lycoris: Inoue Takina
 Dialogue: 0,0:05:58.13,0:05:58.17,ZSigns2,,0,0,0,,{\fnDoppio One\fs40.001\fry-8.58\frx0.26\frz-7.92\fax0.14\clip(m 1402.375 748.75 l 1835.875 793.75 1836.625 894 1402.375 830.25)\pos(1592.951,845.19)\c&HFDFDFD&\blur0.8}Lycoris: Inoue Takina
 Dialogue: 0,0:05:58.17,0:05:58.21,ZSigns2,,0,0,0,,{\fnDoppio One\fs40.001\fry-8.58\frx0.26\frz-7.92\fax0.14\clip(m 1402.375 748.75 l 1835.875 793.75 1836.625 894 1402.375 830.25)\pos(1592.951,845.19)\c&HFCFDFF&}Lycoris: Inoue Takina
-Dialogue: 0,0:02:07.52,0:02:13.24,Title,TS,0,0,0,,{\blur4.5\fad(0,575)\fnRaleway Medium\bord2.55\c&H020713&\fs62.55\pos(1375.5,873.99)\clip(962,870,965,939)\t(0,1100,1,\clip(815,870,1817,939))\b1}Tergesa-gesa, Makin Lama Usai
-Dialogue: 0,0:02:07.52,0:02:13.24,Title,TS,0,0,0,,{\blur0.825\fad(0,575)\fnRaleway Medium\c&H150644&\fs62.55\pos(1373.1,873.285)\clip(963,873,966,935)\t(0,1100,1,\clip(815,873,1817,935))\b1}Tergesa-gesa, Makin Lama Usai
-Dialogue: 0,0:02:07.52,0:02:13.24,Title,TS,0,0,0,,{\blur0.825\fad(0,575)\fnRaleway Medium\c&H532F94&\fs62.55\pos(1374.36,874.29)\clip(963,873,966,936)\t(0,1100,1,\clip(816,873,1817,936))\b1}Tergesa-gesa, Makin Lama Usai
-Dialogue: 0,0:02:07.52,0:02:13.24,Title,TS,0,0,0,,{\blur0.825\fad(0,575)\fnRaleway Medium\fs62.55\c&H28762B&\pos(1379.805,874.005)\clip(969,873,972,936)\t(0,1100,1,\clip(816,873,1817,936))\b1}Tergesa-gesa, Makin Lama Usai
-Dialogue: 0,0:02:07.52,0:02:09.11,Title,TS,0,0,0,,{\blur0.825\fnRaleway Medium\fs62.55\pos(1377.39,872.28)\clip(966,872,969,935)\t(0,1100,1,\clip(816,872,1817,935))\b1}Tergesa-gesa, Makin Lama Usai
-Dialogue: 0,0:02:08.61,0:02:09.32,Title,TS,0,0,0,,{\blur0.825\fnRaleway Medium\c&H8556FF&\fs62.55\pos(1377.39,872.28)\clip(966,872,969,935)\t(0,450,1,\clip(816,872,1817,935))\b1}Tergesa-gesa, Makin Lama Usai
-Dialogue: 0,0:02:08.65,0:02:09.65,Title,TS,0,0,0,,{\blur0.825\fnRaleway Medium\fs62.55\pos(1377.39,872.28)\clip(966,872,969,935)\t(0,450,1,\clip(816,872,1817,935))\b1}Tergesa-gesa, Makin Lama Usai
-Dialogue: 0,0:02:08.69,0:02:09.40,Title,TS,0,0,0,,{\blur0.825\fnRaleway Medium\c&HE2FF65&\fs62.55\pos(1377.39,872.28)\clip(966,872,969,935)\t(0,450,1,\clip(816,872,1817,935))\b1}Tergesa-gesa, Makin Lama Usai
-Dialogue: 0,0:02:08.73,0:02:13.24,Title,TS,0,0,0,,{\blur0.825\fnRaleway Medium\fad(0,575)\fs62.55\pos(1377.39,872.28)\clip(966,872,969,935)\t(0,450,1,\clip(816,872,1817,935))\b1}Tergesa-gesa, Makin Lama Usai
+Dialogue: 0,0:02:07.52,0:02:13.24,Title,TS,0,0,0,,{\blur4.5\fad(0,575)\fnRaleway Medium\bord2.55\c&H020713&\fs62.55\pos(1360.500,873.990)\clip(962.000,870.000,965.000,939.000)\t(0,1100,1,\clip(815,870,1817,939))\b1}Tergesa-gesa, makin lama usai
+Dialogue: 0,0:02:07.52,0:02:13.24,Title,TS,0,0,0,,{\blur0.825\fad(0,575)\fnRaleway Medium\c&H150644&\fs62.55\pos(1358.100,873.285)\clip(963.000,873.000,966.000,935.000)\t(0,1100,1,\clip(815,873,1817,935))\b1}Tergesa-gesa, makin lama usai
+Dialogue: 0,0:02:07.52,0:02:13.24,Title,TS,0,0,0,,{\blur0.825\fad(0,575)\fnRaleway Medium\c&H532F94&\fs62.55\pos(1359.360,874.290)\clip(963.000,873.000,966.000,936.000)\t(0,1100,1,\clip(816,873,1817,936))\b1}Tergesa-gesa, makin lama usai
+Dialogue: 0,0:02:07.52,0:02:13.24,Title,TS,0,0,0,,{\blur0.825\fad(0,575)\fnRaleway Medium\fs62.55\c&H28762B&\pos(1364.810,874.005)\clip(969.000,873.000,972.000,936.000)\t(0,1100,1,\clip(816,873,1817,936))\b1}Tergesa-gesa, makin lama usai
+Dialogue: 0,0:02:07.52,0:02:09.11,Title,TS,0,0,0,,{\blur0.825\fnRaleway Medium\fs62.55\pos(1362.390,872.280)\clip(966.000,872.000,969.000,935.000)\t(0,1100,1,\clip(816,872,1817,935))\b1}Tergesa-gesa, makin lama usai
+Dialogue: 0,0:02:08.61,0:02:09.32,Title,TS,0,0,0,,{\blur0.825\fnRaleway Medium\c&H8556FF&\fs62.55\pos(1362.390,872.280)\clip(966.000,872.000,969.000,935.000)\t(0,450,1,\clip(816,872,1817,935))\b1}Tergesa-gesa, makin lama usai
+Dialogue: 0,0:02:08.65,0:02:09.65,Title,TS,0,0,0,,{\blur0.825\fnRaleway Medium\fs62.55\pos(1362.390,872.280)\clip(966.000,872.000,969.000,935.000)\t(0,450,1,\clip(816,872,1817,935))\b1}Tergesa-gesa, makin lama usai
+Dialogue: 0,0:02:08.69,0:02:09.40,Title,TS,0,0,0,,{\blur0.825\fnRaleway Medium\c&HE2FF65&\fs62.55\pos(1362.390,872.280)\clip(966.000,872.000,969.000,935.000)\t(0,450,1,\clip(816,872,1817,935))\b1}Tergesa-gesa, makin lama usai
+Dialogue: 0,0:02:08.73,0:02:13.24,Title,TS,0,0,0,,{\blur0.825\fnRaleway Medium\fad(0,575)\fs62.55\pos(1362.390,872.280)\clip(966.000,872.000,969.000,935.000)\t(0,450,1,\clip(816,872,1817,935))\b1}Tergesa-gesa, makin lama usai
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"1d14df42-5695-409f-bf74-98b81f875508"#2C"originalText"#3A"{\\blur0.8\\b1\\fs69\\c&HA6C8D2&\\fnImpact\\frz356.9\\pos(622.66#2C493.99)\\fscx115\\fscy100}TUTUP"}
