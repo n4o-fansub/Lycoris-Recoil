@@ -16,6 +16,9 @@ DDY*
 *.m4a
 *.flac
 *.webm
+*.ffindex
+*.lwi
+*.d2v
 
 # MKV stuff
 *.mka
