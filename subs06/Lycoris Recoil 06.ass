@@ -22,9 +22,9 @@ Video File: ../lycoreco06_premux [CF1B9C0E].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 3133
-Active Line: 3149
-Video Position: 4179
+Scroll Position: 3139
+Active Line: 3145
+Video Position: 4181
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -3182,13 +3182,13 @@ Dialogue: 0,0:09:53.41,0:09:55.37,TS,,0,0,0,,{\blur0.9\b1\fs51\c&H010405&\fnMark
 Dialogue: 0,0:09:53.41,0:09:55.37,TS,,0,0,0,,{\blur0.9\b1\fs51\c&H010405&\fnMarker SD\frz2.456\pos(1213.74,885.195)}Takina
 Dialogue: 0,0:09:53.41,0:09:55.37,TS,,0,0,0,,{\blur0.9\b1\fs51\c&H010405&\fnMarker SD\frz2.456\pos(1451.34,885.195)}Takina
 Dialogue: 0,0:09:53.41,0:09:55.37,TS,,0,0,0,,{\blur0.9\b1\fs51\c&H010405&\fnMarker SD\frz2.456\pos(1667.34,885.195)}Takina
-Dialogue: 0,0:02:52.86,0:02:57.53,Title,,0,0,0,,{\fad(0,478)\blur4.5\fnRaleway Medium\bord2.55\c&H020713&\b1\fs68.5\fscy106.9\fscx104.8\t(5922,6400,\c&H00&)\clip(1166,838,1210,930)\t(0,1064,1,\clip(1160,842,1920,934))\pos(1539.07,848.53)}Ketertarikan berlawanan
-Dialogue: 0,0:02:52.86,0:02:57.53,Title,,0,0,0,,{\fad(0,478)\blur0.82\fnRaleway Medium\c&H150644&\b1\fs68.5\fscy106.9\fscx104.8\t(5922,6400,\c&H00&)\clip(1226,822,1280,930)\clip(1166,838,1210,930)\t(0,1064,1,\clip(1160,842,1920,934))\pos(1535.07,848.53)}Ketertarikan berlawanan
-Dialogue: 0,0:02:52.86,0:02:57.53,Title,,0,0,0,,{\fad(0,478)\blur0.825\fnRaleway Medium\c&H532F94&\b1\fs68.5\fscy106.9\fscx104.8\t(5922,6400,\c&H00&)\clip(1226,822,1280,930)\clip(1166,838,1210,930)\t(0,1064,1,\clip(1160,842,1920,934))\pos(1537.07,848.53)}Ketertarikan berlawanan
-Dialogue: 0,0:02:52.86,0:02:57.53,Title,,0,0,0,,{\fad(0,478)\blur0.825\fnRaleway Medium\b1\fs68.5\fscy106.9\c&H28762B&\fscx104.8\t(5922,6400,\c&H00&)\clip(1166,838,1210,930)\t(0,1064,1,\clip(1160,842,1920,934))\pos(1541.07,848.53)}Ketertarikan berlawanan
-Dialogue: 0,0:02:52.86,0:02:57.53,Title,,0,0,0,,{\fad(0,478)\blur0.825\fnRaleway Medium\b1\fs68.5\fscy106.9\fscx104.8\clip(1166,838,1210,930)\t(0,1064,1,\clip(1160,842,1920,934))\pos(1539.07,848.53)}Ketertarikan berlawanan
-Dialogue: 0,0:02:53.90,0:02:54.32,Title,,0,0,0,,{\blur0.825\fnRaleway Medium\b1\fs68.5\fscy106.9\c&HF3FE5D&\fscx104.8\pos(1539.07,848.53)\clip(1288,834,1340,928)\t(65,420,\clip(1880,816,1925,926))}Ketertarikan berlawanan
-Dialogue: 0,0:02:53.90,0:02:54.20,Title,,0,0,0,,{\blur0.825\fnRaleway Medium\b1\fs68.5\fscy106.9\c&H8556FF&\fscx104.8\pos(1539.07,848.53)\clip(1144,816,1212,926)\t(\clip(1880,816,1925,926))}Ketertarikan berlawanan
+Dialogue: 0,0:02:52.86,0:02:57.53,Title,,0,0,0,,{\fad(0,478)\blur4.5\fnRaleway Medium\bord2.55\c&H020713&\b1\fs68.5\fscy106.9\fscx104.8\t(5922,6400,\c&H00&)\clip(1166,838,1210,930)\t(0,1064,1,\clip(1160,842,1920,934))\pos(1539.07,848.53)}Perbedaan yang memikat
+Dialogue: 0,0:02:52.86,0:02:57.53,Title,,0,0,0,,{\fad(0,478)\blur0.82\fnRaleway Medium\c&H150644&\b1\fs68.5\fscy106.9\fscx104.8\t(5922,6400,\c&H00&)\clip(1226,822,1280,930)\clip(1166,838,1210,930)\t(0,1064,1,\clip(1160,842,1920,934))\pos(1535.07,848.53)}Perbedaan yang memikat
+Dialogue: 0,0:02:52.86,0:02:57.53,Title,,0,0,0,,{\fad(0,478)\blur0.825\fnRaleway Medium\c&H532F94&\b1\fs68.5\fscy106.9\fscx104.8\t(5922,6400,\c&H00&)\clip(1226,822,1280,930)\clip(1166,838,1210,930)\t(0,1064,1,\clip(1160,842,1920,934))\pos(1537.07,848.53)}Perbedaan yang memikat
+Dialogue: 0,0:02:52.86,0:02:57.53,Title,,0,0,0,,{\fad(0,478)\blur0.825\fnRaleway Medium\b1\fs68.5\fscy106.9\c&H28762B&\fscx104.8\t(5922,6400,\c&H00&)\clip(1166,838,1210,930)\t(0,1064,1,\clip(1160,842,1920,934))\pos(1541.07,848.53)}Perbedaan yang memikat
+Dialogue: 0,0:02:52.86,0:02:57.53,Title,,0,0,0,,{\fad(0,478)\blur0.825\fnRaleway Medium\b1\fs68.5\fscy106.9\fscx104.8\clip(1166,838,1210,930)\t(0,1064,1,\clip(1160,842,1920,934))\pos(1539.07,848.53)}Perbedaan yang memikat
+Dialogue: 0,0:02:53.90,0:02:54.32,Title,,0,0,0,,{\blur0.825\fnRaleway Medium\b1\fs68.5\fscy106.9\c&HF3FE5D&\fscx104.8\pos(1539.07,848.53)\clip(1288,834,1340,928)\t(65,420,\clip(1880,816,1925,926))}Perbedaan yang memikat
+Dialogue: 0,0:02:53.90,0:02:54.20,Title,,0,0,0,,{\blur0.825\fnRaleway Medium\b1\fs68.5\fscy106.9\c&H8556FF&\fscx104.8\pos(1539.07,848.53)\clip(1144,816,1212,926)\t(\clip(1880,816,1925,926))}Perbedaan yang memikat
 Dialogue: 0,0:09:55.37,0:09:58.37,TS,,0,0,0,,
 
 [Aegisub Extradata]

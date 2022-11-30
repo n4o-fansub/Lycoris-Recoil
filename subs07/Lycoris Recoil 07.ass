@@ -23,7 +23,7 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
 Scroll Position: 1433
-Active Line: 1440
+Active Line: 1437
 Video Position: 4041
 
 [V4+ Styles]
@@ -1472,11 +1472,11 @@ Dialogue: 1,0:03:41.58,0:03:43.16,TS,,0,0,0,,{\fad(0,103)\blur1.5\b0\fs100.5\an4
 Dialogue: 2,0:03:41.58,0:03:43.16,TS,,0,0,0,,{\fad(0,103)\blur1.5\b1\fsp1.5\fs129\an4\c&H856B34&\fnNoto Sans Japanese Regular\fax0.25\pos(1079.4,808.8)\frz7.717}Email Baru
 Dialogue: 0,0:11:27.29,0:11:30.21,TS,,0,0,0,,{\fad(0,103)\blur1.5\fs103.5\b1\c&H00002F&\fnBloody\pos(976.005,120)}AKU TANTANG KAU, LYCORIS
 Dialogue: 0,0:23:52.70,0:23:54.33,TS,,0,0,0,,{\blur1.5\fs90\b1\c&H03076B&\fnBloody\pos(976.005,120)}AKU TANTANG KAU, LYCORIS
-Dialogue: 0,0:02:47.56,0:02:57.53,Title,,0,0,0,,{\fad(0,478)\blur4.5\fnRaleway Medium\bord2.55\c&H020713&\b1\fs68.5\fscy86.05\fscx84.36\pos(1555.07,866.53)\clip(1196,844,1234,932)\t(0,983,\clip(1196,844,1908,932))}Waktu 'kan membuktikannya
-Dialogue: 0,0:02:47.56,0:02:57.53,Title,,0,0,0,,{\fad(0,478)\blur0.82\fnRaleway Medium\c&H150644&\b1\fs68.5\fscy86.05\fscx84.36\pos(1551.07,866.53)\clip(1196,844,1234,932)\t(0,983,\clip(1196,844,1908,932))}Waktu 'kan membuktikannya
-Dialogue: 0,0:02:47.56,0:02:57.53,Title,,0,0,0,,{\fad(0,478)\blur0.825\fnRaleway Medium\c&H532F94&\b1\fs68.5\fscy86.05\fscx84.36\pos(1553.07,866.53)\clip(1196,844,1234,932)\t(0,983,\clip(1196,844,1908,932))}Waktu 'kan membuktikannya
-Dialogue: 0,0:02:47.56,0:02:57.53,Title,,0,0,0,,{\fad(0,478)\blur0.825\fnRaleway Medium\b1\fs68.5\fscy86.05\c&H28762B&\fscx84.36\pos(1557.07,866.53)\clip(1196,844,1234,932)\t(0,983,\clip(1196,844,1908,932))}Waktu 'kan membuktikannya
-Dialogue: 0,0:02:47.56,0:02:57.53,Title,,0,0,0,,{\fad(0,478)\blur0.825\fnRaleway Medium\b1\fs68.5\fscy86.05\fscx84.36\pos(1555.07,866.53)\clip(1196,844,1234,932)\t(0,983,\clip(1196,844,1908,932))}Waktu 'kan membuktikannya
-Dialogue: 0,0:02:48.52,0:02:48.94,Title,,0,0,0,,{\blur0.825\fnRaleway Medium\b1\fs68.5\fscy86.05\c&HF3FE5D&\fscx84.36\pos(1555.07,866.53)\clip(1354,850,1416,934)\t(\clip(1848,852,1906,942))}Waktu 'kan membuktikannya
-Dialogue: 0,0:02:48.52,0:02:48.82,Title,,0,0,0,,{\blur0.825\fnRaleway Medium\b1\fs68.5\fscy86.05\c&H8556FF&\fscx84.36\pos(1555.07,866.53)\clip(1192,838,1258,934)\t(\clip(1848,852,1906,942))}Waktu 'kan membuktikannya
+Dialogue: 0,0:02:47.56,0:02:57.53,Title,,0,0,0,,{\fad(0,478)\blur4.5\fnRaleway Medium\bord2.55\c&H020713&\b1\fs68.5\fscy86.05\fscx84.36\clip(1196,844,1234,932)\t(0,983,\clip(1196,844,1908,932))\pos(1527.07,866.53)}Waktu 'kan menentukan
+Dialogue: 0,0:02:47.56,0:02:57.53,Title,,0,0,0,,{\fad(0,478)\blur0.82\fnRaleway Medium\c&H150644&\b1\fs68.5\fscy86.05\fscx84.36\clip(1196,844,1234,932)\t(0,983,\clip(1196,844,1908,932))\pos(1523.07,866.53)}Waktu 'kan menentukan
+Dialogue: 0,0:02:47.56,0:02:57.53,Title,,0,0,0,,{\fad(0,478)\blur0.825\fnRaleway Medium\c&H532F94&\b1\fs68.5\fscy86.05\fscx84.36\clip(1196,844,1234,932)\t(0,983,\clip(1196,844,1908,932))\pos(1525.07,866.53)}Waktu 'kan menentukan
+Dialogue: 0,0:02:47.56,0:02:57.53,Title,,0,0,0,,{\fad(0,478)\blur0.825\fnRaleway Medium\b1\fs68.5\fscy86.05\c&H28762B&\fscx84.36\clip(1196,844,1234,932)\t(0,983,\clip(1196,844,1908,932))\pos(1529.07,866.53)}Waktu 'kan menentukan
+Dialogue: 0,0:02:47.56,0:02:57.53,Title,,0,0,0,,{\fad(0,478)\blur0.825\fnRaleway Medium\b1\fs68.5\fscy86.05\fscx84.36\clip(1196,844,1234,932)\t(0,983,\clip(1196,844,1908,932))\pos(1527.07,866.53)}Waktu 'kan menentukan
+Dialogue: 0,0:02:48.52,0:02:48.94,Title,,0,0,0,,{\blur0.825\fnRaleway Medium\b1\fs68.5\fscy86.05\c&HF3FE5D&\fscx84.36\clip(1354,850,1416,934)\t(\clip(1848,852,1906,942))\pos(1527.07,866.53)}Waktu 'kan menentukan
+Dialogue: 0,0:02:48.52,0:02:48.82,Title,,0,0,0,,{\blur0.825\fnRaleway Medium\b1\fs68.5\fscy86.05\c&H8556FF&\fscx84.36\clip(1192,838,1258,934)\t(\clip(1848,852,1906,942))\pos(1527.07,866.53)}Waktu 'kan menentukan
 Dialogue: 0,0:23:54.33,0:23:57.33,TS,,0,0,0,,
