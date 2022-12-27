@@ -22,8 +22,6 @@ Video File: D:/Work/Fansubbing/Encodes/Lycoris Recoil/Premux/lycoreco08_premux [
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 2057
-Active Line: 2073
 Video Position: 5410
 
 [V4+ Styles]
@@ -37,12 +35,12 @@ Style: Title,Gandhi Sans,60,&H00FFFFFF,&H000000FF,&H00020713,&H96000000,-1,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Dialog,Chapter,0,0,0,,{Prolog}
-Comment: 0,0:02:13.99,0:02:14.03,Dialog,Chapter,0,0,0,,{Lagu Pembuka}
-Comment: 0,0:03:44.00,0:03:44.04,Dialog,Chapter,0,0,0,,{Bagian A}
-Comment: 0,0:12:26.98,0:12:27.02,Dialog,Chapter,0,0,0,,{Eyecatch}
-Comment: 0,0:12:36.99,0:12:37.03,Dialog,Chapter,0,0,0,,{Bagian B}
-Comment: 0,0:22:43.51,0:22:43.55,Dialog,Chapter,0,0,0,,{Lagu Penutup}
+Comment: 0,0:00:00.00,0:00:00.00,Dialog,chapter,0,0,0,chapter,{Prolog}
+Comment: 0,0:02:13.99,0:02:14.03,Dialog,chapter,0,0,0,chapter,{Lagu Pembuka}
+Comment: 0,0:03:44.00,0:03:44.04,Dialog,chapter,0,0,0,chapter,{Bagian A}
+Comment: 0,0:12:26.98,0:12:27.02,Dialog,chapter,0,0,0,chapter,{Eyecatch}
+Comment: 0,0:12:36.99,0:12:37.03,Dialog,chapter,0,0,0,chapter,{Bagian B}
+Comment: 0,0:22:43.51,0:22:43.55,Dialog,chapter,0,0,0,chapter,{Lagu Penutup}
 Dialogue: 0,0:00:07.78,0:00:08.66,Dialog,,0,0,0,,Terima kasih.
 Dialogue: 0,0:00:09.61,0:00:14.62,Dialog,,0,0,0,,Ini sangat enak, Himegama-kun.\NKamu punya bakat menjadi koki.
 Dialogue: 0,0:00:14.91,0:00:18.25,Dialog,,0,0,0,,Jika saya memilih jalur kuliner, \Napakah Yayasan akan menyokongku?
