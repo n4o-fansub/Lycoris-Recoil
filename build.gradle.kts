@@ -23,9 +23,15 @@ subs {
             }
         }
 
-        if (propertyExists("opsync")) {
+        if (propertyExists("edsync")) {
             fromIfPresent(get("ED")) {
                 syncTargetTime(getAs<Duration>("edsync"))
+            }
+        }
+
+        if (propertyExists("edsync2")) {
+            fromIfPresent(get("ED2")) {
+                syncTargetTime(getAs<Duration>("edsync2"))
             }
         }
     }
